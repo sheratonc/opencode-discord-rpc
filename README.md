@@ -54,10 +54,10 @@ Clone into your OpenCode config directory:
 
 ```sh
 # Windows (PowerShell)
-git clone https://github.com/sheranton/opencode-discord-rpc "$env:USERPROFILE\.config\opencode\plugins\discord-rpc"
+git clone https://github.com/sheratonc/opencode-discord-rpc "$env:USERPROFILE\.config\opencode\plugins\discord-rpc"
 
 # macOS / Linux
-git clone https://github.com/sheranton/opencode-discord-rpc ~/.config/opencode/plugins/discord-rpc
+git clone https://github.com/sheratonc/opencode-discord-rpc ~/.config/opencode/plugins/discord-rpc
 ```
 
 Then reference it in your **global** config at
@@ -84,7 +84,7 @@ Any plugin dropped into a project's `.opencode/plugins/` directory is loaded
 automatically — no `plugins` entry needed:
 
 ```sh
-git clone https://github.com/sheranton/opencode-discord-rpc .opencode/plugins/discord-rpc
+git clone https://github.com/sheratonc/opencode-discord-rpc .opencode/plugins/discord-rpc
 ```
 
 That's it. **Fully quit and relaunch OpenCode** (not just reload) with Discord

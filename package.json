@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sheranton/opencode-discord-rpc"
+    "url": "https://github.com/sheratonc/opencode-discord-rpc"
   },
   "bugs": {
-    "url": "https://github.com/sheranton/opencode-discord-rpc/issues"
+    "url": "https://github.com/sheratonc/opencode-discord-rpc/issues"
   },
-  "homepage": "https://github.com/sheranton/opencode-discord-rpc#readme",
+  "homepage": "https://github.com/sheratonc/opencode-discord-rpc#readme",
   "engines": {
     "node": ">=18.0.0"
   }
